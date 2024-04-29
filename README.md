@@ -10,7 +10,7 @@ Key Highlights:
 
 Diving into movie trends, aiding in strategic decision-making for filmmakers and enthusiasts alike.
 
-PBIX LINK: https://drive.google.com/file/d/1m07Qq-f-VM_h_PfTONRCOAaFfZBIKRV_/view?usp=sharing
+PBIX LINK: https://drive.google.com/file/d/1K4vO9i6vBxLshZKioRGJDGaU6tK6ONtB/view?usp=sharing
 
 PDF LINK:   https://drive.google.com/file/d/1jNqicvppcnzbPwKf7w3fRcb0WTt9Rp_9/view?usp=sharing
 
